@@ -1,0 +1,9 @@
+E:\STUDY\programming\c# source code\CSHADONETEmployeeManagementSystem\CSHADONETEmployeeManagementSystem\bin\Debug\CSHADONETEmployeeManagementSystem.exe.config
+E:\STUDY\programming\c# source code\CSHADONETEmployeeManagementSystem\CSHADONETEmployeeManagementSystem\bin\Debug\CSHADONETEmployeeManagementSystem.exe
+E:\STUDY\programming\c# source code\CSHADONETEmployeeManagementSystem\CSHADONETEmployeeManagementSystem\bin\Debug\CSHADONETEmployeeManagementSystem.pdb
+E:\STUDY\programming\c# source code\CSHADONETEmployeeManagementSystem\CSHADONETEmployeeManagementSystem\obj\Debug\CSHADONETEmployeeManagementSystem.csprojResolveAssemblyReference.cache
+E:\STUDY\programming\c# source code\CSHADONETEmployeeManagementSystem\CSHADONETEmployeeManagementSystem\obj\Debug\CSHADONETEmployeeManagementSystem.EmployeeForm.resources
+E:\STUDY\programming\c# source code\CSHADONETEmployeeManagementSystem\CSHADONETEmployeeManagementSystem\obj\Debug\CSHADONETEmployeeManagementSystem.Properties.Resources.resources
+E:\STUDY\programming\c# source code\CSHADONETEmployeeManagementSystem\CSHADONETEmployeeManagementSystem\obj\Debug\CSHADONETEmployeeManagementSystem.csproj.GenerateResource.Cache
+E:\STUDY\programming\c# source code\CSHADONETEmployeeManagementSystem\CSHADONETEmployeeManagementSystem\obj\Debug\CSHADONETEmployeeManagementSystem.exe
+E:\STUDY\programming\c# source code\CSHADONETEmployeeManagementSystem\CSHADONETEmployeeManagementSystem\obj\Debug\CSHADONETEmployeeManagementSystem.pdb
